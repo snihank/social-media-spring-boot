@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d2c02c2-af59-4d69-81ad-cb74e7323d78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8.0_131" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hYaFjRu9v4veWN8RxJ7k2JX7LA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.LoginControllerTest">
+    <configuration name="All in hoaxify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hoaxify" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hoaxify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoaxify.hoaxify.controllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hoaxify.hoaxify.controllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.hoaxify.hoaxify.controllerTest.LoginControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginControllerTest.postLogin_withIncorrectCredentials_receivedunauthorized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hoaxify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoaxify.hoaxify.controllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hoaxify.hoaxify.controllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.hoaxify.hoaxify.controllerTest.LoginControllerTest" />
+      <option name="METHOD_NAME" value="postLogin_withIncorrectCredentials_receivedunauthorized" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hoaxify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoaxify.hoaxify.controllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hoaxify.hoaxify.controllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.hoaxify.hoaxify.controllerTest.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.postUser_whenUserIsValid_isPasswordHashedinDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hoaxify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hoaxify.hoaxify.controllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hoaxify.hoaxify.controllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.hoaxify.hoaxify.controllerTest.UserControllerTest" />
+      <option name="METHOD_NAME" value="postUser_whenUserIsValid_isPasswordHashedinDatabase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginControllerTest" />
+        <item itemvalue="JUnit.All in hoaxify" />
+        <item itemvalue="JUnit.LoginControllerTest.postLogin_withIncorrectCredentials_receivedunauthorized" />
+        <item itemvalue="JUnit.UserControllerTest.postUser_whenUserIsValid_isPasswordHashedinDatabase" />
+        <item itemvalue="JUnit.UserControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d2c02c2-af59-4d69-81ad-cb74e7323d78" name="Default Changelist" comment="" />
+      <created>1600190377871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600190377871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2168" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607384787287">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2168" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607384787287" />
+    <state x="1987" y="205" width="1192" height="750" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1607384762814">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1987" y="205" width="1192" height="750" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607384762814" />
+    <state x="2717" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1607535406919">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2717" y="239" key="#com.intellij.ide.util.MemberChooser/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600540173281" />
+    <state x="2717" y="241" key="#com.intellij.ide.util.MemberChooser/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607535406919" />
+    <state x="2421" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600540945129">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2421" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600540945129" />
+    <state width="1350" height="357" key="GridCell.Tab.0.bottom" timestamp="1607576714476">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1350" height="409" key="GridCell.Tab.0.bottom/0.23.1680.957/1680.23.1920.1057@0.23.1680.957" timestamp="1600565718306" />
+    <state width="1350" height="409" key="GridCell.Tab.0.bottom/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600543372498" />
+    <state width="1350" height="357" key="GridCell.Tab.0.bottom/0.25.1680.950@0.25.1680.950" timestamp="1607576714476" />
+    <state width="1350" height="357" key="GridCell.Tab.0.bottom/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607536176766" />
+    <state width="1350" height="357" key="GridCell.Tab.0.center" timestamp="1607576714475">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1350" height="409" key="GridCell.Tab.0.center/0.23.1680.957/1680.23.1920.1057@0.23.1680.957" timestamp="1600565718306" />
+    <state width="1350" height="409" key="GridCell.Tab.0.center/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600543372497" />
+    <state width="1350" height="357" key="GridCell.Tab.0.center/0.25.1680.950@0.25.1680.950" timestamp="1607576714475" />
+    <state width="1350" height="357" key="GridCell.Tab.0.center/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607536176765" />
+    <state width="1350" height="357" key="GridCell.Tab.0.left" timestamp="1607576714475">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1350" height="409" key="GridCell.Tab.0.left/0.23.1680.957/1680.23.1920.1057@0.23.1680.957" timestamp="1600565718305" />
+    <state width="1350" height="409" key="GridCell.Tab.0.left/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600543372496" />
+    <state width="1350" height="357" key="GridCell.Tab.0.left/0.25.1680.950@0.25.1680.950" timestamp="1607576714475" />
+    <state width="1350" height="357" key="GridCell.Tab.0.left/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607536176764" />
+    <state width="1350" height="357" key="GridCell.Tab.0.right" timestamp="1607576714475">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="1350" height="409" key="GridCell.Tab.0.right/0.23.1680.957/1680.23.1920.1057@0.23.1680.957" timestamp="1600565718306" />
+    <state width="1350" height="409" key="GridCell.Tab.0.right/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600543372497" />
+    <state width="1350" height="357" key="GridCell.Tab.0.right/0.25.1680.950@0.25.1680.950" timestamp="1607576714475" />
+    <state width="1350" height="357" key="GridCell.Tab.0.right/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607536176765" />
+    <state x="2392" y="92" key="SettingsEditor" timestamp="1607384867343">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2392" y="90" key="SettingsEditor/1680.23.1920.1057/0.23.1680.957@1680.23.1920.1057" timestamp="1602865619219" />
+    <state x="2392" y="90" key="SettingsEditor/1680.23.1920.1057/3600.23.1920.1057/0.23.1680.957@1680.23.1920.1057" timestamp="1602879091241" />
+    <state x="2392" y="92" key="SettingsEditor/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607384867343" />
+    <state x="2213" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1606255367832">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2213" y="350" key="com.intellij.ide.util.TipDialog/0.23.1680.957/1680.23.1920.1057@1680.23.1920.1057" timestamp="1600190446121" />
+    <state x="2213" y="350" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/3600.23.1920.1057/0.23.1680.957@1680.23.1920.1057" timestamp="1602821639061" />
+    <state x="2213" y="351" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1606255367832" />
+    <state x="2634" y="257" key="extract.method.dialog" timestamp="1607536166047">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2634" y="257" key="extract.method.dialog/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607536166047" />
+    <state x="2248" y="268" key="run.anything.popup" timestamp="1607385403231">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2248" y="268" key="run.anything.popup/1680.25.1920.1055/3600.25.1920.1055/0.25.1680.950@1680.25.1920.1055" timestamp="1607385403231" />
+  </component>
+</project>
